@@ -1,8 +1,4 @@
-
-
-
-
-    
+<?php require('./layout/Header.php'); ?>
   <section id="hero">
     <div class="hero-container">
       <div id="heroCarousel" class="carousel slide carousel-fade" data-bs-ride="carousel" data-bs-interval="5000">
@@ -60,6 +56,8 @@
       </div>
     </div>
   </section>
+<?php require('./layout/Footer.php'); ?>
+
 
 
 
