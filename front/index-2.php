@@ -38,11 +38,6 @@
   <br>
   <br>
   
-  
-  
-   
-
-  
   <section id="two" class="wrapper">
     <div class="inner alt">
         <section class="spotlight">
